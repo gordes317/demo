@@ -19,6 +19,6 @@ public class DemoApplication {
 class Demo{
 	@RequestMapping("/test")
 	public String demo(){
-		return " spring boot demo!";
+		return " spring boot demo22233!";
 	}
 }
